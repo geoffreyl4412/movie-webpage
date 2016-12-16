@@ -1,7 +1,8 @@
-h1{
+#title{
     /*color: red;*/
-    font-family: 'Hind', 'Cormorant Garamont';
-    
+    font-family: "Hind", "Cormorant Garamont";
+    margin: 2px 1px 2px 2px;
+    padding: 1px 2px 2px 1px;
 }
 
 
