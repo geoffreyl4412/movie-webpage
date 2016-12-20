@@ -1,26 +1,27 @@
-
-.description{
+h1, h2{
     color: red;
     font-family: "Hind", "Cormorant Garamont";
-    margin: 2px 1px 2px 2px;
-    padding: 1px 2px 2px 1px;
+    text-align: center;
 }
 
-.info{
-    color: red;
+.description, .info{
+    color: blue;
     font-family: "Hind", "Cormorant Garamont";
     margin: 2px 1px 2px 2px;
-    padding: 1px 2px 2px 1px;
+    padding: 2px 2px 2px 1px;
 }
-    
 
 #pokeball{
     float: left;
-    margin: 1px 2px 3px 20px;
+    margin: 0px 20px 0px 0px;
 }
 
+#logo{
+    float: right;
+    margin: 30px 0px 0px 20px;
+}
 img{
     position: relative;
-    Right:50px;
+    right: 10px;
     
 }
